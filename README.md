@@ -1,4 +1,4 @@
-// 672115039 Metavee Aeinjang
+# 672115039 Metavee Aeinjang
 // This program is for 953102 ADT & Problem solving section 701 Tutorial 2
 
 total student : 30
